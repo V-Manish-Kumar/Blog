@@ -1,0 +1,8 @@
+- `[x]` Install `svix` dependency
+- `[x]` Implement Clerk webhooks (`src/app/api/webhooks/clerk/route.ts`)
+- `[x]` Implement activity API (`src/app/api/activity/route.ts`)
+- `[x]` Connect `GitHubGrid.tsx` to the live activity API
+- `[x]` Implement the premium `/profile` page (`src/app/profile/page.tsx`)
+- `[x]` Update `Navbar.tsx` to link to `/profile`
+- `[x]` Build and verify the application compiles cleanly
+- `[x]` Prepare the project for Vercel deployment mode
